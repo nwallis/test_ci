@@ -1,0 +1,14 @@
+{
+    "name": "nathanwallis/test_ci",
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^8.5",
+        "spatie/phpunit-watcher": "^1.21"
+    },
+    "authors": [
+        {
+            "name": "Nathan Wallis",
+            "email": "natewallis@gmail.com"
+        }
+    ]
+}
